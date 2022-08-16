@@ -1,0 +1,2 @@
+temp_f = float(input("Digite a temperatura em Fahrenheit: "))
+print("Essa temperatura em graus Celsius fica: ", 5*((temp_f-32)/9), "°C") #Formula para conversão de Fahrenheit para Celsius: C = 5 * ((F-32) / 9
